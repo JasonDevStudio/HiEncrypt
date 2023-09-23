@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "HiCmd": {
+    "HiEncrypt": {
       "commandName": "Project",
       "commandLineArgs": "-f module.json -c encrypt"
     }
