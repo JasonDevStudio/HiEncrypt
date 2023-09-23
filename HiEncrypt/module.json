@@ -1,0 +1,26 @@
+{
+  "SourceDir": "C:\\Users\\yaoji\\Downloads\\",
+  "TargetDir": "C:\\Users\\yaoji\\Downloads\\",
+  "EncryptionProgram": "cmd.exe",
+  "Arguments": "echo",
+  "Modules": [
+    {
+      "Name": "test",
+      "Assemblies": [
+        {
+          "Source": "JetBrains.dotUltimate.2023.2.1.web.exe",
+          "Target": "Target_JetBrains.dotUltimate.2023.2.1.web.exe"
+        }
+      ]
+    },
+    {
+      "Name": "test2",
+      "Assemblies": [
+        {
+          "Source": "JetBrains.dotUltimate.2023.2.1.web2.exe",
+          "Target": "Target_JetBrains.dotUltimate.2023.2.1.web2.exe"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HiCmd": {
+      "commandName": "Project",
+      "commandLineArgs": "-f module.json -c encrypt"
+    }
+  }
+}
